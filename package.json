@@ -1,0 +1,21 @@
+{
+  "name": "cyberdream",
+  "displayName": "Cyberdream",
+  "description": "A Fork of Cyberdream for NeoVim",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberdream",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdream-color-theme.json"
+      }
+    ]
+  }
+}
