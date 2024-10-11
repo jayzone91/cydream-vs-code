@@ -2,6 +2,15 @@
   "name": "cyberdream",
   "displayName": "Cyberdream",
   "description": "A Fork of Cyberdream for NeoVim",
+  "publisher": "jayzone91",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayzone91/cydream-vs-code.git"
+  },
+  "author": {
+    "name": "Johannes Kirchner",
+    "email": "hi@johanneskirchner.net"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.94.0"
